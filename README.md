@@ -6,8 +6,8 @@
 <p>My bootcamp projects :</p>
 
 <ul>
-  <li><a href="https://github.com/JulesChevrant/OVNINB">AirBnBoat</a> : an Airbnb clone for boats.</li>
-  <li><a href="https://github.com/kevinkotcherga/VIBES">TheHealthbook</a> : an app for your medical record.</li>
+  <li><a href="https://github.com/thibaultcolomb/airbnboat">AirBnBoat</a> : an Airbnb clone for boats.</li>
+  <li><a href="https://github.com/thibaultcolomb/the-healthbook">TheHealthbook</a> : an app for your medical record.</li>
 </ul>
 
 
