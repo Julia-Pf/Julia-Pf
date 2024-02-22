@@ -32,7 +32,22 @@ const Julia = {
 <a href="https://linkedin.com/in/jupf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jupf" height="30" width="40" /></a>
 </p>
 
-<h3>The Healthbook</h3>
+## The Healthbook
+### A app for managing your medical reports.
+The user keeps its health in the own hands. 
+While consulting different doctors for different medical issues you may notice that doctors` live in different unsiverses. Madame Pommfrey is doing a blood test and when you go to Dr. Hibbert he wants to do another one as he doesn`t have access to the one Poppy already did. To avoid this our four membered team created and developed The Healtbook. Patients can easily upload the medical reports, blood tests, prescriptions and more, the documents are transcriped for a better overview and they can be shared via e-mail or QR Code.
 
+The Healthbook is built with the Ruby on Rails framework.
 
-![Screenshot Healthbook Homepage](/The Healthbook homepage.JPG)
+![Screenshot Healthbook Homepage](/The_Healthbook_homepage.JPG)
+
+### The core user story: Reports
+Upload the latest blood test or surgery report and have a structured overview of all the medical reports. With Tesseract and Open Ai images and reports are transcribed into text and tables.
+![Screenshot Healthbook Homepage](/healtbook_reports.JPG)
+
+Sharing is caring especially when talking of your health. Keep your doctor updated and share reports via e-mail or QR Code with your deposited doctors.
+![Screenshot Healthbook Homepage](/share.JPG)
+
+### No reports without doctor`s appointments
+Having many different doctors to consult can be stressful. Never again forget an appointment. Have your records already ready before seeing the doctor with attaching relevant reports to a new appointment.
+![Screenshot Healthbook Homepage](/appointments.JPG)
