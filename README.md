@@ -8,6 +8,7 @@
 <ul>
   <li><a href="https://github.com/thibaultcolomb/airbnboat">AirBnBoat</a> : an Airbnb clone for boats.</li>
   <li><a href="https://github.com/thibaultcolomb/the-healthbook">TheHealthbook</a> : an app for your medical record.</li>
+More details on the projects further down.
 </ul>
 
 
@@ -43,11 +44,18 @@ The Healthbook is built with the Ruby on Rails framework.
 
 ### The core user story: Reports
 Upload the latest blood test or surgery report and have a structured overview of all the medical reports. With Tesseract and Open Ai images and reports are transcribed into text and tables.
+
 ![Screenshot Healthbook Homepage](/healtbook_reports.JPG)
 
 Sharing is caring especially when talking of your health. Keep your doctor updated and share reports via e-mail or QR Code with your deposited doctors.
-![Screenshot Healthbook Homepage](/share.JPG)
+
+![Screenshot Healthbook Homepage](/share.jpg)
 
 ### No reports without doctor`s appointments
 Having many different doctors to consult can be stressful. Never again forget an appointment. Have your records already ready before seeing the doctor with attaching relevant reports to a new appointment.
+
 ![Screenshot Healthbook Homepage](/appointments.JPG)
+
+## AirBnBoat
+### Rent a boat from private boat owners` or rent out your own boat.
+
